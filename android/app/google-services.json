@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "563345418030",
+    "project_id": "college-app-43393",
+    "storage_bucket": "college-app-43393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563345418030:android:41ffda88eb32852612bcbf",
+        "android_client_info": {
+          "package_name": "com.example.main_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563345418030-fav5u04c7mrrgs8sgjm2u6sqlmnuvj0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcClzm9jHozVteqSPB_dY9IVShqBDKx-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563345418030-fav5u04c7mrrgs8sgjm2u6sqlmnuvj0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563345418030:android:c7b17e35a2d0fb3c12bcbf",
+        "android_client_info": {
+          "package_name": "com.example.prakhyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563345418030-fav5u04c7mrrgs8sgjm2u6sqlmnuvj0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcClzm9jHozVteqSPB_dY9IVShqBDKx-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563345418030-fav5u04c7mrrgs8sgjm2u6sqlmnuvj0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
